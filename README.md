@@ -3,12 +3,12 @@ TCRT5000/TCRT5000L library for Arduino
 
 Features:
  - Only checks for digital proximity. Nothing sophisticated. 
- - If you connect a second pin to IR-diode, it will blink for 20us, thus drain less power.
+ - If you connect a second pin to IR-diode, it will blink for 100us, thus drain less power.
 
 License
 ==================
 
-This code is licensed under [MIT]( http://opensource.org/licenses/MIT )  by [Umut Karcı](http://www.umutkarci.com).
+This code is licensed under [CC BY-SA 3.0]( https://creativecommons.org/licenses/by-sa/3.0/ ).
 
 Other Things
 ==================
@@ -17,4 +17,4 @@ Other Things
 
 Special Thanks To
 ==================
- - [JRodrigoTech](https://github.com/JRodrigoTech) for his Ultrasonic library (gave me inspiration)
+ - [Javier Rodrigo](https://github.com/JRodrigoTech) for his Ultrasonic library (gave me the inspiration)
