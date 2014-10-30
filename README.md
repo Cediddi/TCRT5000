@@ -17,4 +17,4 @@ Other Things
 
 Special Thanks To
 ==================
- - [JRodrigoTech](https://github.com/JRodrigoTech) for his Ultrasonic library (gave me the inspiration and boilerplate code)
+ - [JRodrigoTech](https://github.com/JRodrigoTech) for his Ultrasonic library (gave me inspiration)
